@@ -1,0 +1,19 @@
+body {
+    background-color: #fafafa;
+    font-family: sans-serif;
+}
+
+.heading {
+    background-color: #ca2b2b;
+    color: white;
+}
+
+h1 {
+    font-style: italic;
+    
+}
+
+img {
+    width: 250px;
+    height: auto;
+}
